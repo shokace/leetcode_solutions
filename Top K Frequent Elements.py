@@ -7,7 +7,7 @@ class Solution:
             else:
                 freq[i] += 1
 
-
+    
         print(freq)
 
         # able to extract both key and value from frequency using freq.items()
